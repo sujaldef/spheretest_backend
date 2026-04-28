@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Coverage
+coverage/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
